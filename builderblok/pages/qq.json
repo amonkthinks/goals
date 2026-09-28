@@ -508,7 +508,135 @@
           "paddingRight": "24px",
           "paddingBottom": "80px"
         }
-      }
+      },
+      "children": [
+        {
+          "id": "blk_muleq1g5100",
+          "type": "grid",
+          "props": {},
+          "styles": {
+            "mobile": {
+              "gridTemplateColumns": "minmax(0, 1fr)"
+            },
+            "tablet": {
+              "gridTemplateColumns": "repeat(2, minmax(0, 1fr))"
+            },
+            "desktop": {
+              "gap": "24px",
+              "display": "grid",
+              "gridTemplateColumns": "repeat(3, minmax(0, 1fr))"
+            }
+          },
+          "children": [
+            {
+              "id": "blk_muleq1g5101",
+              "type": "div",
+              "props": {},
+              "styles": {},
+              "children": [
+                {
+                  "id": "blk_muleq57p104",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#475569",
+                      "fontSize": "16px",
+                      "marginTop": "0px",
+                      "lineHeight": "1.6",
+                      "marginBottom": "16px"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_muleqc7m107",
+                  "type": "heading",
+                  "props": {
+                    "text": "Heading",
+                    "level": "h2"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "fontSize": "36px",
+                      "marginTop": "0px",
+                      "fontWeight": "700",
+                      "lineHeight": "1.2",
+                      "marginBottom": "16px"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "blk_muleq1g5102",
+              "type": "div",
+              "props": {},
+              "styles": {},
+              "children": [
+                {
+                  "id": "blk_muleq764105",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#475569",
+                      "fontSize": "16px",
+                      "marginTop": "0px",
+                      "lineHeight": "1.6",
+                      "marginBottom": "16px"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_muleqm9l108",
+                  "type": "heading",
+                  "props": {
+                    "text": "Heading",
+                    "level": "h2"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "fontSize": "36px",
+                      "marginTop": "0px",
+                      "fontWeight": "700",
+                      "lineHeight": "1.2",
+                      "marginBottom": "16px"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "blk_muleq1g5103",
+              "type": "div",
+              "props": {},
+              "styles": {},
+              "children": [
+                {
+                  "id": "blk_muleq8v8106",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#475569",
+                      "fontSize": "16px",
+                      "marginTop": "0px",
+                      "lineHeight": "1.6",
+                      "marginBottom": "16px"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "blk_mulemupx96",
